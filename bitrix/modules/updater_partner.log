@@ -1,0 +1,497 @@
+2017-06-16 12:26:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:26:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:26:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:26:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:26:56 -  - TIME GetUpdatesList(request) 0.319 sec
+2017-06-16 12:26:56 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:27:00 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:27:00 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:27:00 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:27:00 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:27:01 -  - TIME GetUpdatesList(request) 0.774 sec
+2017-06-16 12:27:01 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:27:07 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:27:07 -  - TIME LoadModulesUpdates(request) 0.333 sec
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:27:07 - S - STEP
+2017-06-16 12:27:07 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:27:07 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:27:07 -  - loadFile
+2017-06-16 12:27:27 - U - RETURN
+2017-06-16 12:27:27 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 12:28:29 -  - TIME UnGzipArchive 61.885 sec
+2017-06-16 12:29:55 -  - TIME UpdateStepModules 84.822 sec
+2017-06-16 12:30:09 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:30:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:30:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop%2Caspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:30:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:30:10 -  - TIME GetUpdatesList(request) 1.117 sec
+2017-06-16 12:30:10 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:30:16 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:30:16 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:30:16 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop%2Caspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:30:16 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:30:17 -  - TIME GetUpdatesList(request) 0.952 sec
+2017-06-16 12:30:17 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:30:24 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:30:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:30:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:30:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:30:24 -  - TIME GetUpdatesList(request) 0.605 sec
+2017-06-16 12:30:24 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:02 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:31:02 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:31:02 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:31:02 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:31:03 -  - TIME GetUpdatesList(request) 0.748 sec
+2017-06-16 12:31:03 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:31:05 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.2%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:31:05 -  - TIME LoadModulesUpdates(request) 0.675 sec
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:05 - S - STEP
+2017-06-16 12:31:05 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:05 -  - loadFile
+2017-06-16 12:31:05 - U - RETURN
+2017-06-16 12:31:05 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 12:31:05 -  - TIME UnGzipArchive 0.001 sec
+2017-06-16 12:31:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1497605465/bitrix.eshop/updater16.5.3.php'
+2017-06-16 12:31:06 -  - TIME UpdateStepModules 0.167 sec
+2017-06-16 12:31:06 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.3)<br><li>Добавлен новый комплексный компонент персонального раздела.
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:31:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.3%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:31:06 -  - TIME LoadModulesUpdates(request) 0.338 sec
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:06 - S - STEP
+2017-06-16 12:31:06 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:06 -  - loadFile
+2017-06-16 12:31:06 - U - RETURN
+2017-06-16 12:31:06 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 12:31:06 -  - TIME UnGzipArchive 0.005 sec
+2017-06-16 12:31:06 - CSURUS1 - Run updater '/bitrix/updates/update_m1497605466/bitrix.eshop/updater16.5.4.php'
+2017-06-16 12:31:07 -  - TIME UpdateStepModules 0.271 sec
+2017-06-16 12:31:07 - UPD_SUCCESS - Updated: bitrix.eshop (16.5.4)<br><li>Незначительные доработки шаблона.
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:31:07 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:31:07 -  - TIME LoadModulesUpdates(request) 0.504 sec
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:07 - S - STEP
+2017-06-16 12:31:07 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 12:31:07 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:31:07 -  - loadFile
+2017-06-16 12:31:27 - U - RETURN
+2017-06-16 12:31:27 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 12:32:14 -  - TIME UnGzipArchive 47.518 sec
+2017-06-16 12:33:15 -  - TIME UpdateStepModules 59.956 sec
+2017-06-16 12:33:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:33:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:33:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop%2Caspro.digital&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:33:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:33:27 -  - TIME GetUpdatesList(request) 0.393 sec
+2017-06-16 12:33:27 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:33:30 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:33:30 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:33:30 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop%2Caspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:33:30 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:33:30 -  - TIME GetUpdatesList(request) 0.439 sec
+2017-06-16 12:33:31 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:33:37 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:33:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:33:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop%2Caspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:33:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:33:38 -  - TIME GetUpdatesList(request) 0.36 sec
+2017-06-16 12:33:38 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 12:33:40 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 12:33:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 12:33:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C16.5.4%2CN%3Bseo%2C16.0.3%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C16.0.1%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C15.0.2%2CN%3Babtest%2C16.0.0%2CN%3Bperfmon%2C16.0.0%2CN%3Bscale%2C16.0.0%2CN%3Bcurrency%2C16.5.0%2CN%3Bmobileapp%2C16.0.5%2CN%3Bhighloadblock%2C16.0.2%2CN%3Btranslate%2C14.5.0%2CN%3Bbitrixcloud%2C16.0.0%2CN%3Bsender%2C16.0.3%2CN%3Bsale%2C16.5.0%2CN%3Bconversion%2C15.5.6%2CN%3Bcatalog%2C16.5.3%2CN%3Bvote%2C15.5.0%2CN%3Bsearch%2C16.0.0%2CN%3Bforum%2C16.5.2%2CN%3Beshopapp%2C15.0.0%2CN%3Bfileman%2C16.5.4%2CN%3Bsubscribe%2C16.0.0%2CN%3Bphotogallery%2C16.0.1%2CN%3Bpull%2C16.5.1%2CN%3Bsecurity%2C16.0.3%2CN%3Bsocialservices%2C16.5.4%2CN%3Bblog%2C16.5.4%2CN%3Biblock%2C16.5.2%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 12:33:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 12:33:40 -  - TIME GetUpdatesList(request) 0.371 sec
+2017-06-16 12:33:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:01:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:01:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:01:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:01:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:01:55 -  - TIME GetUpdatesList(request) 1.591 sec
+2017-06-16 13:01:55 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:02:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:02:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:02:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:02:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:02:33 -  - TIME GetUpdatesList(request) 0.942 sec
+2017-06-16 13:02:33 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:02:40 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:02:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:02:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:02:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:02:41 -  - TIME GetUpdatesList(request) 1.6 sec
+2017-06-16 13:02:41 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:02:49 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:02:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:02:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bbitrix.sitecorporate%2C15.0.0%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:02:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:02:50 -  - TIME GetUpdatesList(request) 0.994 sec
+2017-06-16 13:02:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:02:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:02:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:02:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:02:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:02:55 -  - TIME GetUpdatesList(request) 1.047 sec
+2017-06-16 13:02:55 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:02:58 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:02:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:02:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:02:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:02:59 -  - TIME GetUpdatesList(request) 1.168 sec
+2017-06-16 13:02:59 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:03:07 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:03:07 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:03:07 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:03:07 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:03:08 -  - TIME GetUpdatesList(request) 0.837 sec
+2017-06-16 13:03:08 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:05:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bbitrix.eshop%2C16.5.4%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=bitrix.eshop&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:20 -  - TIME GetUpdatesList(request) 1.533 sec
+2017-06-16 13:05:20 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:20 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:05:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:21 -  - TIME GetUpdatesList(request) 0.635 sec
+2017-06-16 13:05:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:25 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:05:25 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:25 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:25 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:25 -  - TIME GetUpdatesList(request) 0.448 sec
+2017-06-16 13:05:25 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:30 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:05:30 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:30 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:30 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:31 -  - TIME GetUpdatesList(request) 1.162 sec
+2017-06-16 13:05:31 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:35 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:05:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:36 -  - TIME GetUpdatesList(request) 0.907 sec
+2017-06-16 13:05:36 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:05:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:05:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:05:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:05:40 -  - TIME LoadModulesUpdates(request) 0.652 sec
+2017-06-16 13:05:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:40 - S - STEP
+2017-06-16 13:05:40 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 13:05:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:05:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:05:40 -  - loadFile
+2017-06-16 13:06:10 - S - RETURN
+2017-06-16 13:06:10 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 13:06:14 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:06:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:06:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:06:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:06:15 -  - TIME GetUpdatesList(request) 0.714 sec
+2017-06-16 13:06:15 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:13:58 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:13:58 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:13:58 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:13:58 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:13:59 -  - TIME GetUpdatesList(request) 1.153 sec
+2017-06-16 13:13:59 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:14:29 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:14:29 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:14:29 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:14:29 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:14:30 -  - TIME GetUpdatesList(request) 0.904 sec
+2017-06-16 13:14:30 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:14:43 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:14:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:14:43 -  - loadFile
+2017-06-16 13:14:44 - U - RETURN
+2017-06-16 13:14:44 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 13:15:31 -  - TIME UnGzipArchive 47.582 sec
+2017-06-16 13:16:19 -  - TIME UpdateStepModules 48.122 sec
+2017-06-16 13:22:50 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:22:50 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:22:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:22:50 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:22:50 -  - TIME GetUpdatesList(request) 0.326 sec
+2017-06-16 13:22:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:22:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:22:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:22:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:22:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:22:54 -  - TIME GetUpdatesList(request) 0.384 sec
+2017-06-16 13:22:54 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:22:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:22:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:22:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:22:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:22:55 -  - TIME GetUpdatesList(request) 0.358 sec
+2017-06-16 13:22:55 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:25:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:25:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:25:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:25:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:25:14 -  - TIME GetUpdatesList(request) 0.319 sec
+2017-06-16 13:25:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:42:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:42:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:42:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:42:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:42:54 -  - TIME GetUpdatesList(request) 0.313 sec
+2017-06-16 13:42:54 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:42:57 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:42:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:42:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:42:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:42:58 -  - TIME LoadModulesUpdates(request) 0.318 sec
+2017-06-16 13:42:58 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:42:58 - S - STEP
+2017-06-16 13:42:58 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 13:42:58 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:42:58 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:42:58 -  - loadFile
+2017-06-16 13:43:21 - U - RETURN
+2017-06-16 13:43:21 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 13:44:05 -  - TIME UnGzipArchive 44.21 sec
+2017-06-16 13:45:02 -  - TIME UpdateStepModules 56.757 sec
+2017-06-16 13:45:34 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:45:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:45:34 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:45:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:45:34 -  - TIME GetUpdatesList(request) 0.324 sec
+2017-06-16 13:45:34 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:38 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:45:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:45:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:45:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:45:39 -  - TIME GetUpdatesList(request) 0.817 sec
+2017-06-16 13:45:39 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:39 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:45:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:45:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:45:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:45:40 -  - TIME GetUpdatesList(request) 0.455 sec
+2017-06-16 13:45:40 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:42 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 13:45:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:45:42 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:45:42 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:45:43 -  - TIME GetUpdatesList(request) 0.979 sec
+2017-06-16 13:45:43 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 13:45:45 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 13:45:45 -  - TIME LoadModulesUpdates(request) 0.479 sec
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:45 - S - STEP
+2017-06-16 13:45:45 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 13:45:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 13:45:45 -  - loadFile
+2017-06-16 13:46:16 - U - RETURN
+2017-06-16 13:46:16 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 13:47:16 -  - TIME UnGzipArchive 60.442 sec
+2017-06-16 13:48:07 -  - TIME UpdateStepModules 46.814 sec
+2017-06-16 16:37:52 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:37:52 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:37:52 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:37:52 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:37:53 -  - TIME GetUpdatesList(request) 0.427 sec
+2017-06-16 16:37:53 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:00 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:38:00 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:38:00 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:38:00 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:38:01 -  - TIME GetUpdatesList(request) 0.359 sec
+2017-06-16 16:38:01 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:07 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:38:07 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:38:07 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:38:07 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:38:08 -  - TIME GetUpdatesList(request) 0.468 sec
+2017-06-16 16:38:08 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:45 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:38:45 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:38:45 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:38:45 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:38:45 -  - TIME GetUpdatesList(request) 0.272 sec
+2017-06-16 16:38:45 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:47 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:38:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:38:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:38:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:38:48 -  - TIME GetUpdatesList(request) 0.425 sec
+2017-06-16 16:38:48 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:38:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:38:50 -  - TIME LoadModulesUpdates(request) 0.353 sec
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:50 - S - STEP
+2017-06-16 16:38:50 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 16:38:50 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:38:50 -  - loadFile
+2017-06-16 16:39:20 - U - RETURN
+2017-06-16 16:39:20 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 16:40:09 -  - TIME UnGzipArchive 48.824 sec
+2017-06-16 16:40:59 -  - TIME UpdateStepModules 49.745 sec
+2017-06-16 16:45:14 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:45:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:45:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:45:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:45:14 -  - TIME GetUpdatesList(request) 0.332 sec
+2017-06-16 16:45:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:45:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:45:18 -  - TIME GetUpdatesList(request) 0.453 sec
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:45:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:45:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:45:19 -  - TIME GetUpdatesList(request) 0.357 sec
+2017-06-16 16:45:19 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:21 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:45:21 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:45:21 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:45:21 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:45:21 -  - TIME GetUpdatesList(request) 0.439 sec
+2017-06-16 16:45:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:45:23 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&lim=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:45:23 -  - TIME LoadModulesUpdates(request) 0.273 sec
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:23 - S - STEP
+2017-06-16 16:45:23 - LMU01 - LoadModulesUpdates-Step
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-16 16:45:23 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:45:23 -  - loadFile
+2017-06-16 16:45:53 - U - RETURN
+2017-06-16 16:45:53 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-16 16:46:39 -  - TIME UnGzipArchive 45.948 sec
+2017-06-16 16:47:22 -  - TIME UpdateStepModules 42.081 sec
+2017-06-16 16:47:50 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:47:50 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:47:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:47:50 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:47:51 -  - TIME GetUpdatesList(request) 0.286 sec
+2017-06-16 16:47:51 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:47:53 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:47:53 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:47:53 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:47:53 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:47:54 -  - TIME GetUpdatesList(request) 0.384 sec
+2017-06-16 16:47:54 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-16 16:47:54 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-16 16:47:54 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-16 16:47:54 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-16 16:47:54 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-16 16:47:54 -  - TIME GetUpdatesList(request) 0.304 sec
+2017-06-16 16:47:54 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:50:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 11:50:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:50:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.6%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.0%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.15%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.6%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.0%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.0.8%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.3%2CN%3Bblog%2C17.5.1%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:50:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:50:26 -  - TIME GetUpdatesList(request) 0.362 sec
+2017-06-20 11:50:26 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:53:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 11:53:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:53:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:53:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:53:08 -  - TIME GetUpdatesList(request) 0.335 sec
+2017-06-20 11:53:08 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:53:11 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 11:53:11 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:53:11 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:53:11 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:53:11 -  - TIME GetUpdatesList(request) 0.351 sec
+2017-06-20 11:53:11 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:53:20 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-20 11:53:20 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:53:20 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:53:20 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:53:21 -  - TIME LoadModulesUpdates(request) 0.406 sec
+2017-06-20 11:53:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:53:21 - S - STEP
+2017-06-20 11:53:21 - LMU01 - LoadModulesUpdates-Step
+2017-06-20 11:53:21 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-20 11:53:21 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:53:21 -  - loadFile
+2017-06-20 11:53:51 - U - RETURN
+2017-06-20 11:53:51 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-20 11:54:35 -  - TIME UnGzipArchive 43.555 sec
+2017-06-20 11:55:20 -  - TIME UpdateStepModules 45.564 sec
+2017-06-20 11:55:21 - UPD_SUCCESS - Updated: aspro.digital
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:55:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Baspro.digital%2C1.0.0%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:55:22 -  - TIME LoadModulesUpdates(request) 0.391 sec
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:55:22 - S - STEP
+2017-06-20 11:55:22 - LMU01 - LoadModulesUpdates-Step
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-20 11:55:22 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:55:22 -  - loadFile
+2017-06-20 11:55:23 - U - RETURN
+2017-06-20 11:55:23 -  - exec CUpdateClientPartner::UnGzipArchive
+2017-06-20 11:55:23 -  - TIME UnGzipArchive 0.005 sec
+2017-06-20 11:55:23 - CSURUS1 - Run updater '/bitrix/updates/update_m1497948923/aspro.digital/updater1.0.1.php'
+2017-06-20 11:55:23 -  - TIME UpdateStepModules 0.506 sec
+2017-06-20 11:55:23 - UPD_SUCCESS - Updated: aspro.digital (1.0.1)<br><b>Исправления:</b> <ul> <li>Отрегулировано воспроизведение видео на основном баннере главной страницы </li> </ul> <br /> <b>Внимание!!! Перед установкой обновления ОБЯЗАТЕЛЬНО выполните полное резервное копирование сайта. Если вы вносили изменения в шаблон решения, то дополнительно скопируйте всю папку шаблона!</b><br />
+2017-06-20 11:55:23 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2017-06-20 11:55:23 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 11:55:23 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Baspro.digital%2C1.0.1%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 11:55:23 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 11:55:24 -  - TIME LoadModulesUpdates(request) 0.326 sec
+2017-06-20 11:55:24 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 11:55:24 - STEP - Finish - NOUPDATES
+2017-06-20 11:55:24 - STEP - Finish - NOUPDATES
+2017-06-20 12:11:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 12:11:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 12:11:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Baspro.digital%2C1.0.1%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 12:11:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 12:11:14 -  - TIME GetUpdatesList(request) 5.839 sec
+2017-06-20 12:11:14 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 12:33:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 12:33:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 12:33:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Baspro.digital%2C1.0.1%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 12:33:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 12:33:33 -  - TIME GetUpdatesList(request) 0.686 sec
+2017-06-20 12:33:33 -  - exec CUpdateClientPartner::ParseServerData
+2017-06-20 12:33:50 -  - exec CUpdateClientPartner::GetUpdatesList
+2017-06-20 12:33:50 -  - exec CUpdateClientPartner::__CollectRequestData
+2017-06-20 12:33:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=perspectiva-decor.medialine.by&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=E&CLIENT_PHPVER=5.6.30&NGINX=Y&dbv=10.0.29&instm=main%2C17.0.7%2CN%3Breport%2C16.5.1%2CN%3Bseo%2C17.0.5%2CN%3Bclouds%2C17.0.0%2CN%3Bcompression%2C16.0.0%2CN%3Bform%2C17.0.1%2CN%3Babtest%2C17.0.0%2CN%3Bperfmon%2C17.0.0%2CN%3Bb24connector%2C17.0.1%2CN%3Bscale%2C17.0.0%2CN%3Bcurrency%2C17.0.2%2CN%3Bmobileapp%2C17.0.1%2CN%3Bhighloadblock%2C17.0.2%2CN%3Btranslate%2C15.0.0%2CN%3Bbitrixcloud%2C17.0.0%2CN%3Bsender%2C17.1.1%2CN%3Bsale%2C17.0.17%2CN%3Bconversion%2C17.0.2%2CN%3Bcatalog%2C17.0.7%2CN%3Bvote%2C17.5.0%2CN%3Bsearch%2C17.0.1%2CN%3Bforum%2C17.5.1%2CN%3Beshopapp%2C16.5.0%2CN%3Bfileman%2C17.5.0%2CN%3Baspro.digital%2C1.0.1%2CN%3Bsubscribe%2C17.0.0%2CN%3Bphotogallery%2C17.0.2%2CN%3Bpull%2C17.1.0%2CN%3Bsecurity%2C17.0.1%2CN%3Bsocialservices%2C17.1.4%2CN%3Bblog%2C17.5.2%2CN%3Biblock%2C17.0.9%2CN%3Bstoreassist%2C16.0.1%2CN&reqm=aspro.digital&fullmoduleinfo=Y&SUPD_SRS=RU&SUPD_CMP=N
+2017-06-20 12:33:50 -  - exec CUpdateClientPartner::GetHTTPPage
+2017-06-20 12:33:51 -  - TIME GetUpdatesList(request) 0.719 sec
+2017-06-20 12:33:51 -  - exec CUpdateClientPartner::ParseServerData

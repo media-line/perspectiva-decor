@@ -1,0 +1,32 @@
+<?
+$MESS["HTTPS_PROMO__ADMIN_TITLE"] = "Migration der Website auf HTTPS vorbereiten";
+$MESS["HTTPS_PROMO__SUBTITLE"] = "HTTPS ist der Schutz und die Sicherheit Ihrer Daten";
+$MESS["HTTPS_PROMO__TITLE"] = "HTTPS-Konfiguration der Website";
+$MESS["HTTPS_PROMO__PREPARE_SITE"] = "Migration der Website auf HTTPS vorbereiten";
+$MESS["HTTPS_PROMO__CHANGE_LINKS_NEW"] = "Links, die auf der Website verwendet werden, von absoluten auf relative andern.";
+$MESS["HTTPS_PROMO__CHECK_PROTOCOL_NEW"] = "Fur Inhalte, die von externen Ressourcen geladen werden, das Protokoll prufen und andern, nach welchem diese Inhalte angefordert werden.";
+$MESS["HTTPS_PROMO__EXTERNAL_SCRIPTS"] = "Anbindung externer Scripts von absoluten auf relative andern.";
+$MESS["HTTPS_PROMO__CERTIFICATE_INSTALL_NEW"] = "SSL-Zertifikat angeben";
+$MESS["HTTPS_PROMO__CERTIFICATE_CHOICE_NEW"] = "Zertifikat auswahlen und anfordern.";
+$MESS["HTTPS_PROMO__CERTIFICATES_FEATURES"] = "Besonderheiten von Zertifikaten, von denen Sie wissen sollten";
+$MESS["HTTPS_PROMO__CERTIFICATE_REGULAR"] = "Ein Zertifikat fur eine einzige sichere Quelle";
+$MESS["HTTPS_PROMO__CERTIFICATE_REGULAR_ALT"] = "fur eine Subdomain";
+$MESS["HTTPS_PROMO__TO_MOST_SITES"] = " - passt fur die meisten Websites.";
+$MESS["HTTPS_PROMO__WILDCART"] = "Platzhalterzertifikat";
+$MESS["HTTPS_PROMO__TO_SEVERAL_DOMAINS"] = "fur mehrere Sobdomains einer Domain";
+$MESS["HTTPS_PROMO__TO_SEVERAL_DOMAINS_ALT"] = " - ist dann erforderlich, wenn Ihre Website uber Subdomains verfugt.";
+$MESS["HTTPS_PROMO__CERTIFICATE_IDN"] = "Mit IDN-Unterstutzung";
+$MESS["HTTPS_PROMO__CERTIFICATE_IDN_ALT"] = " passt fur Domains mit kyrillischen Zeichen in Uberschriften.";
+$MESS["HTTPS_PROMO__MULTIDOMAINS_CERTIFICATE"] = "Ein Zertifikat fur mehrere Domains";
+$MESS["HTTPS_PROMO__MULTIDOMAINS_CERTIFICATE_ALT"] = " - ist dann erforderlich, wenn Ihre Organisation uber mehrere Domains verfugt.";
+$MESS["HTTPS_PROMO__CERTIFICATE_VENDORS"] = "Hauptanbieter der Zertifikate";
+$MESS["HTTPS_PROMO__INSTALL_CERTIFICATE_NEW"] = "Das erhaltene Zertifikat auf Hosting setzen.";
+$MESS["HTTPS_PROMO__CHECK_ACTIVE_NEW"] = "Verfugbarkeit der Website uber HTTPS prufen.";
+$MESS["HTTPS_PROMO__SITE_SETTINGS_NEW"] = "Wichtige Anderungen auf der Website vornehmen";
+$MESS["HTTPS_PROMO__HOST_AND_ROBOTS_NEW"] = "HOST Verzeichnis in der Datei robots.txt auf HTTPS setzen.";
+$MESS["HTTPS_PROMO__REDIRECT_NEW"] = "301-Weiterleitung von HTTP auf HTTPS setzen.";
+$MESS["HTTPS_PROMO__SITEMAP_NEW"] = "Links in der Datei sitemap.xml andern.";
+$MESS["HTTPS_PROMO__SEARCHERS_NEW"] = "Suchmaschinen uber Anderungen benachrichtigen";
+$MESS["HTTPS_PROMO__GOOGLE"] = "HTTPS Version der Website zum Webmaster-Panel von Google Search Console hinzufugen.";
+$MESS["HTTPS_PROMO__YANDEX_NEW"] = "Die Adresse im Panel von Yandex-Webmaster und Google Search Console andern.";
+?>

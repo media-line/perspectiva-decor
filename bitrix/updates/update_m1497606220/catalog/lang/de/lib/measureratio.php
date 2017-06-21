@@ -1,0 +1,6 @@
+<?
+$MESS["MEASURE_RATIO_ENTITY_ID_FIELD"] = "Einheit-ID";
+$MESS["MEASURE_RATIO_ENTITY_PRODUCT_ID_FIELD"] = "Produkt-ID";
+$MESS["MEASURE_RATIO_ENTITY_RATIO_FIELD"] = "Verhältniszahl der Maßeinheit";
+$MESS["MEASURE_RATIO_ENTITY_IS_DEFAULT_FIELD"] = "Standardverhältnis (Basiswert)";
+?>

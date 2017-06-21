@@ -1,0 +1,1 @@
+<a href="mailto:info@perspectiva-decor.medialine.by">info@perspectiva-decor.medialine.by</a>

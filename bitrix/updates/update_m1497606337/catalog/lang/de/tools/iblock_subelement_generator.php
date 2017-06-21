@@ -1,0 +1,37 @@
+<?
+$MESS["IB_SEG_MAIN_TITLE"] = "Seite der Erstellung der Produktvarianten";
+$MESS["IB_SEG_TAB_TITLE"] = "Funktionalität zur Erstellung von Produktvarianten";
+$MESS["IB_SEG_TITLE"] = "Name";
+$MESS["IB_SEG_WEIGHT"] = "Produktgewicht";
+$MESS["IB_SEG_PRICE_TYPE"] = "Preistyp";
+$MESS["IB_SEG_PRICE"] = "Produktpreis";
+$MESS["IB_SEG_PRICE_SHORT"] = "Preis";
+$MESS["IB_SEG_CURRENCY"] = "Währung";
+$MESS["IB_SEG_GENERATE"] = "Erstellen";
+$MESS["IB_SEG_CANCEL"] = "Abbrechen";
+$MESS["IB_SEG_PRICE_ROW_ADD"] = "Mehr";
+$MESS["IB_SEG_PROPERTY_ADD"] = "Eigenschaft hinzufügen";
+$MESS["IB_SEG_PROPERTY_ADD_ALL"] = "Alle laden";
+$MESS["IB_SEG_VAT"] = "MwSt.-Satz";
+$MESS["IB_SEG_VAT_INCLUDED"] = "MwSt. Ist im Preis enthalten";
+$MESS["IB_SEG_DETAIL"] = "Details";
+$MESS["IB_SEG_ANNOUNCE"] = "Kurzbeschreibung";
+$MESS["IB_SEG_SELECTED_PROPERTIES"] = "Ausgewählte Eigenschaften";
+$MESS["IB_SEG_PICTURES"] = "Bilder";
+$MESS["IB_SEG_ADD_PICTURES"] = "Bilder anhängen";
+$MESS["IB_SEG_FOR_ALL"] = "Für alle";
+$MESS["IB_SEG_SORT"] = "Sortierung";
+$MESS["IB_SEG_ADD"] = "Hinzufügen";
+$MESS["IB_SEG_TOOLTIP_TITLE"] = "Der Name des Felds ist optional. Wenn er nicht angegeben ist, wird stattdessen die Produkteigenschaft benutzt. Wenn der Name von einer Vorlage definiert wird, werden alle Produktvarianten auf dieser Vorlage basieren.";
+$MESS["IB_SEG_TOOLTIP_WEIGHT"] = "Produktgewicht und Ausmaß in der Verpackung. Diese Werte werden auf alle Produktvarianten übertragen und können später geändert werden.";
+$MESS["IB_SEG_TOOLTIP_PROPERTIES"] = "Die Eigenschaften, welche vom Generator genutzt werden, müssen vom Typ List sein.";
+$MESS["IB_SEG_BASE_LENGTH"] = "Länge (mm)";
+$MESS["IB_SEG_BASE_WIDTH"] = "Breite (mm)";
+$MESS["IB_SEG_BASE_HEIGHT"] = "Höhe (mm)";
+$MESS["IB_SEG_SKU_PROPERTIES"] = "Eigenschaften der Produktvariante";
+$MESS["IB_SEG_PARENT_PROPERTIES"] = "Übergeordnete Eigenschaften";
+$MESS["IB_SEG_QUANTITY"] = "Menge auf dem Lager";
+$MESS["IB_SEG_MEASURE"] = "Maßeinheit";
+$MESS["IB_SEG_PURCHASING_PRICE"] = "Kaufpreis:";
+$MESS["IB_SEG_EMPTY_VALUE"] = "nicht ausgewählt";
+?>

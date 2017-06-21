@@ -1,0 +1,22 @@
+<?
+$MESS["IBLOCK_SECSEARCH_ACTIVE"] = "Aktiv";
+$MESS["IBLOCK_SECSEARCH_IBLOCK"] = "Informationsblock:";
+$MESS["IBLOCK_SECSEARCH_CHOOSE_IBLOCK"] = "Wählen Sie einen Informationsblock";
+$MESS["IBLOCK_SECSEARCH_DATE_CREATE"] = "Erstellt";
+$MESS["IBLOCK_SECSEARCH_CREATED_BY"] = "Erstellt von";
+$MESS["IBLOCK_SECSEARCH_ELEMENT_CNT"] = "Elemente";
+$MESS["IBLOCK_SECSEARCH_XML_ID"] = "Externe ID";
+$MESS["IBLOCK_SECSEARCH_TIMESTAMP"] = "Geändert";
+$MESS["IBLOCK_SECSEARCH_MODIFIED_BY"] = "Geändert von";
+$MESS["IBLOCK_SECSEARCH_NAME"] = "Überschrift";
+$MESS["IBLOCK_SECSEARCH_PARENT"] = "Übergeordneter Bereich";
+$MESS["IBLOCK_SECSEARCH_ID"] = "Bereichs ID";
+$MESS["IBLOCK_SECSEARCH_TITLE"] = "Elementsuche";
+$MESS["IBLOCK_SECSEARCH_SECTIONS"] = "Bereiche";
+$MESS["IBLOCK_SECSEARCH_SELECT"] = "wählen";
+$MESS["IBLOCK_SECSEARCH_SORT"] = "Sortierung";
+$MESS["IBLOCK_SECSEARCH_SECTION_CNT"] = "Unterbereiche";
+$MESS["IBLOCK_SECSEARCH_CODE"] = "Mnemonischer Code";
+$MESS["IBLOCK_SECSEARCH_LIST"] = "Unterbereiche";
+$MESS["IBLOCK_SECSEARCH_USERINFO"] = "Userparameter anzeigen";
+?>

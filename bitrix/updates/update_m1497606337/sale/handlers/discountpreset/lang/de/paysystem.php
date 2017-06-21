@@ -1,0 +1,5 @@
+<?
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_NAME"] = "Rabatt auf ein ausgewähltes Zahlungssystem";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEM_PAYMENT_LABEL"] = "Zahlungssystem";
+$MESS["SALE_HANDLERS_DISCOUNTPRESET_ERROR_EMPTY_PAYMENT"] = "Zahlungssystem ist nicht angegeben";
+?>
